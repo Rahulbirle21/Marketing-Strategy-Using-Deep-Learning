@@ -27,7 +27,7 @@ With an increase in market competitiveness and changing customer needs, it has b
 The project aims to develop a Deep learning model for a United Kingdom based company to help them identify the potential buyers of their products in order to minimise the marketing cost to be spent on non buyers and to maximise the profits. For this project, the company has shared 10% of their loyalty programme customer data along with their purchase decisions in the past.Based on the data, each successful buyer generates a revenue of 15,000 Euros for the company, while the marketing and other expenses costs 4000 Euros to the company. This information will be used for Profit prospect analysis along with identification of potential buyers.   
 
 ## __Data Collection__
-Dataset given by the company : 
+Dataset used in the project : [Dataset](https://github.com/Rahulbirle21/Marketing-Strategy-Using-Deep-Learning/blob/main/Project_dataset.csv)
 
 The dataset has total 22,223 rows and 10 columns.
 
