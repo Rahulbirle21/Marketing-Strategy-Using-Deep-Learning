@@ -244,7 +244,9 @@ final_profit_df
 
 ## __Deployed the Model as a Web application to identify the Potential buyers__
 
-[![Video]()
+![im](https://github.com/Rahulbirle21/Marketing-Strategy-Using-Deep-Learning/blob/main/images/app.png)
+
+![im](https://github.com/Rahulbirle21/Marketing-Strategy-Using-Deep-Learning/blob/main/images/2024-05-19%20(1).png)
 
 ---
 ## 6. __Project Highlights__
