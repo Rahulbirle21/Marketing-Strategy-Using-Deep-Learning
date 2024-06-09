@@ -249,7 +249,13 @@ final_profit_df
 ![im](https://github.com/Rahulbirle21/Marketing-Strategy-Using-Deep-Learning/blob/main/images/2024-05-19%20(1).png)
 
 ---
-## 6. __Project Highlights__
+
+## __Power BI Dashboard__
+![im](https://github.com/Rahulbirle21/Marketing-Strategy-Using-Deep-Learning/blob/main/images/2024-06-09.png)
+
+---
+
+## __Project Highlights__
 
    1. Easy to use and understand
    2. Open Source
